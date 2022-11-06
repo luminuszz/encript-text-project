@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "lib": [
+      "es2017"
+    ],
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "module": "ES6",
+    "target": "ESNext",
+    "skipLibCheck": true,
+    "sourceMap": false,
+    "strict": true,
+    "resolveJsonModule": true,
+    "rootDir": "./src",
+    "outDir": "./out",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },
+  "exclude": [
+    "node_modules",
+    "e2e",
+    "out",
+    "vitest.config.ts"
+  ]
+}
