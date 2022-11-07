@@ -1,6 +1,6 @@
 {
   "name": "s-crypt-text",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./dist/index.mjs",
   "type": "commonjs",
   "license": "MIT",
