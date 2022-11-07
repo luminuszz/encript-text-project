@@ -1,5 +1,5 @@
 {
-  "name": "fcrypt",
+  "name": "s-crypt-text",
   "version": "1.0.0",
   "main": "./dist/index.mjs",
   "type": "commonjs",

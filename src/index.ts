@@ -14,7 +14,7 @@ class Main {
 
   private readonly shellJs: typeof shelljs;
 
-  private readonly ivFilePath = resolve("./src", "iv.txt");
+  private readonly ivFilePath = resolve(__dirname, "iv.txt");
 
   constructor() {
     this.command = new Command();

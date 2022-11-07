@@ -1,4 +1,3 @@
-// eslint-disable-next-line import/no-extraneous-dependencies
 import { randomBytes } from "node:crypto";
 // eslint-disable-next-line import/no-extraneous-dependencies
 import { beforeEach, describe, expect, it } from "vitest";
